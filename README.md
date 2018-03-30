@@ -21,3 +21,4 @@ could draw the shortest route way points by way points. The function
 "is_waypoints_visible(x,y)" make sure that we would not draw the route that out
 of the screen. 
 
+![alt text](https://github.com/QFD-Felix/Arduino-Route-Finder/blob/master/Project%20Pics.JPG)
